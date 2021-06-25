@@ -27,7 +27,7 @@
 
 **Escape Sequence**
 
-> Escape sequence : \ It will escape
+> Escape sequence : \ These character need to be escaped in Markdown in order to appear as literal characters instead of performing some markdown functions:
 
     Example: \**...**
 
