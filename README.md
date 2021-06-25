@@ -46,15 +46,21 @@
 
 > For unorder list we can use astrisk "\*" or minus "-" or plus "+" sign
 
+
 **Examples**
 
 - List ( This is undorder list)
   - Github (This is suborder list)
   - Git
   - Gitlab
-
 # Links
 
 > To create a link, enclose the link text in brackets (e.g., [Ibootcamp]) and then follow it immediately with the URL in parentheses (e.g., (https://github.com/iBootcamp/batch-2021-june)).
+
+# Images
+
+> To add an image, add an exclamation mark (!), followed by alt text in big brackets, and the path or URL to the image asset in parentheses. We can optionally add a title after the URL in the parentheses.
+
+    **Examples :** ![Github logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YyOMn9wj8tZCEyCPTYGlegHaHa%26pid%3DApi&f=1)
 
 
