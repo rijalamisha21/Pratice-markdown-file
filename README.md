@@ -16,8 +16,8 @@
 
 **To write italic in bold :** **_I'm italic in Bold_**
 
-> Combine asterisks and underscore symbol:
-\**_... and ...._**
+>  Combine asterisks and underscore symbol:
+\**_ ... and .... _**
 
     Example: **_asterisks and underscore_**
 
