@@ -4,7 +4,7 @@
 
 > To create a heading, add number signs (#) in front of a word.
 
-    For example: \# Heading1 , \## Heading2, \### Heading3
+    For example: # Heading1 , ## Heading2, ### Heading3
 
 **For Bold Letter :** **I'm bold**
 
@@ -19,7 +19,7 @@
 > Combine asterisks and underscore symbol:
 \**_... and ...._**
 
-    Example: \**_asterisks and underscore_**
+    Example: **_asterisks and underscore_**
 
 **For Strikethrough uses two tildes :** ~~I'm wrong~~
 
@@ -62,13 +62,14 @@
 > To add an image, add an exclamation mark (!), followed by alt text in big brackets, and the path or URL to the image asset in parentheses. We can optionally add a title after the URL in the parentheses.
 
 **Examples :** 
+
 [GithuboLogo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fae%2FGithub-desktop-logo-symbol.svg%2F1200px-Github-desktop-logo-symbol.svg.png&f=1&nofb=1)
 
 **Pipe**
 
 > Pipe symbol :  |   |
  
-    **Examples :**
+    Examples :
 
     | SN | Country Name |
     | .. | ........ |
